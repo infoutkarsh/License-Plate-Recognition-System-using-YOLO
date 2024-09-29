@@ -6,7 +6,7 @@ This project implements a **License Plate Recognition System** that uses **YOLO 
 ## Features
 - **Real-time License Plate Detection**: Utilizes the YOLOv4 model to detect license plates in images or video streams.
 - **Optical Character Recognition (OCR)**: Extracts alphanumeric characters from detected plates for further processing.
-- **High Accuracy**: Achieves around **95% accuracy** in both detection and character recognition.
+- **High Accuracy**: Achieves around **88.38% accuracy** in both detection and character recognition.
 - **Scalable**: Can be applied to multiple use cases, such as smart city applications and automated vehicle identification.
 
 ## Installation
